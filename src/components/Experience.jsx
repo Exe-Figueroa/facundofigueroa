@@ -12,7 +12,7 @@ const EXPERIENCES = [
     date: "2023 - 2024",
     title: "Estudiante de La Cantera Software",
     description:
-      "Curso diariamente en las oficinas de La Cantera Software, aprendiendo sobre desarrollo web y otras tecnologías. En este lugar he aprendido a trabajar en equipo, a utilizar herramientas de control de versiones y a desarrollar proyectos reales.",
+      "Cursé diariamente en las oficinas de La Cantera Software, aprendiendo sobre desarrollo web y otras tecnologías. En este lugar he aprendido a trabajar en equipo, a utilizar herramientas de control de versiones y a desarrollar proyectos reales.",
     link: "https://www.canterasoft.com/",
   },
 ];

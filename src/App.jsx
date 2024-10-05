@@ -35,7 +35,7 @@ function App() {
             <h3>Facundo Figueroa</h3>
             <h1 className="font-goblin text-5xl">Web-Developer</h1>
             <h2 className="text-2xl opacity-80 text-wrap">
-              <span className="">+1 año de experiencia.</span>
+              <span className="">+1 año de experiencia. </span>
               <span className="text-yellow-200/90">
                 Desarrollador Web con JavaScript
               </span>
